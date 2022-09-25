@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aman-Kukreja
 - 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Give me a ring +917526910879 ! Congrats u are talking to a Front End Dev 
+- 🌱 I’m currently learning Javascript,reactJs
+- 💞️ I’m looking to collaborate on Html,Css,Javascript
+- 📫 How to reach me -  amankukreja0311@gmail.com 
 
 <!---
 Aman-Kukreja/Aman-Kukreja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
