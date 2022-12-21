@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman-Kukreja
 - 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning Javascript,reactJs
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Html,Css,Javascript
 - 📫 How to reach me -  amankukreja0311@gmail.com 
 
